@@ -10,7 +10,7 @@ RandomForestClassifier\
 AdaBoostClassifier\
 GradientBoostingClassifier\
 XGBClassifier\
-LGBMClassifier\
+LGBMClassifier
 # Hitters pipeline:
 This dataset was originally taken from the StatLib library which is maintained at Carnegie Mellon University.\
 This is part of the data that was used in the 1988 ASA Graphics Section Poster Session.
